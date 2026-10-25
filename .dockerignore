@@ -1,0 +1,12 @@
+.env
+.git
+.venv
+venv
+data
+storage
+exports
+backups
+tests
+**/__pycache__
+.pytest_cache
+*.md
